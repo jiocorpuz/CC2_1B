@@ -4,7 +4,7 @@
 
 print("==============================")
 
-# Pounds to Kilograms
+# Pounds to Kilograms*
 pounds = 350
 kilograms = pounds*0.453592
 print("Weight in Pounds(lb):", pounds)
@@ -12,7 +12,7 @@ print("Weight in Kilograms(kg):", kilograms)
 
 print("==============================")
 
-# Miles to Kilometers
+# Miles to Kilometers*
 miles = 83
 kilometers = miles*1.609344
 print("Length in Miles(mi):", miles)
@@ -20,7 +20,7 @@ print("Length in Kilometers(km):", kilometers)
 
 print("==============================")
 
-# Fahrenheit to Celsius
+# Fahrenheit to Celsius*
 fahrenheit = 97
 celsius = (fahrenheit-32)*5/9
 print("Temperature in Fahrenheit(°F):", fahrenheit)
@@ -29,6 +29,8 @@ print("Temperature in Celsuis(°C):", celsius)
 print("==============================")
 
 # Average age of 10 students
+
+# list, dicitonary, and tuple
 s0 = 19
 s1 = 21
 s2 = 20
@@ -58,6 +60,7 @@ print("==============================")
 # Description: Baldur’s Gate 3 is a story-rich, party-based RPG set in the universe of Dungeons & Dragons,
 # where your choices shape a tale of fellowship and betrayal, survival and sacrifice, and the lure of absolute power.
 
+# Lists
 p0 = "~Beirina~"
 p1 = "~Shadowheart~"
 p2 = "~Lae'zel~"
@@ -76,6 +79,7 @@ sk0 = "<Eldritch Blast>"
 sk1 = "<Finger of Death>"
 eq0 = "<Adamantine Armor>"
 
+# Strings
 print("Along the famous region of", loc1, "in the world of", loc0, ", there lies the crown jewel city of")
 print(loc2, "where the adventurers", p0, p1, p2, p3, p4, p5, p6, "would continue their journey")
 print("to eradicate the", en0, "planning to conquer all of", loc0, ". Following their journey, they have clues")
