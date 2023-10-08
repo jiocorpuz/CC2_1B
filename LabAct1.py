@@ -31,6 +31,7 @@ print("==============================")
 # Average age of 10 students
 
 # list, dicitonary, and tuple
+# append, add, remove
 s0 = 19
 s1 = 21
 s2 = 20
